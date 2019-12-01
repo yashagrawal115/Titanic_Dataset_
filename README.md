@@ -1,3 +1,2 @@
-# titanic_dataset_by_yash_agrawal
+# Titanic_Dataset_by_Yash_Agrawal
 Data Manipulation, EDA
-For futher analysis notebooks look at the titanic folder
